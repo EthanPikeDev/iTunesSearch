@@ -7,6 +7,9 @@
 This is a full stack application built using react.js and express.js for front and backend respectively. A user can enter any search term and 
 the application will search and return relevant results using the iTunes API.
 
+# Demo:
+![DemoGIF](https://i.imgur.com/H6YqiRB.gif)
+
 # How to use the app:
 
 Items will be returned from movies to music to books etc. based on what is searched for.
